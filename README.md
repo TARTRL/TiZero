@@ -1,3 +1,5 @@
+No further update in here. Further update for TiZero can be found at https://github.com/OpenRL-Lab/TiZero. For the JRPO algorithm implementation, plz refer to  https://github.com/OpenRL-Lab/openrl/tree/main/examples/mpe.
+
 <div align="center">
 <img width="300px" height="auto" src="./docs/figures/TiZero.png">
 </div>
